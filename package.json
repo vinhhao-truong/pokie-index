@@ -42,7 +42,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=true yarn add && yarn build"
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=true yarn add"
   },
   "eslintConfig": {
     "extends": [

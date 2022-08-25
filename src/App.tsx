@@ -57,7 +57,9 @@ function App() {
           />
         </Routes>
       </main>
-      <footer></footer>
+      <footer className="m-3 bg-light">
+        @Created by Arnold Truong with love!
+      </footer>
       {globalComps.loading && <LoadingMask />}
     </Stack>
   );

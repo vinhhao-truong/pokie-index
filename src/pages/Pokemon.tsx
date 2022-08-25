@@ -4,11 +4,6 @@ import type { PaginationProps } from "antd";
 import { Pagination } from "antd";
 import { Container, Row, Col, Stack } from "react-bootstrap";
 
-import Pokemon from "../models/pokemon";
-
-// import useGetData from "../hooks/useGetData";
-import axios from "axios";
-
 import { useDispatch } from "react-redux";
 import PokeCard from "../components/PokeCard";
 import { useLocation, useMatch, useNavigate } from "react-router-dom";

@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/pokie-index/static/css/main.f27a90c6.css",
+    "main.css": "/pokie-index/static/css/main.3cda6822.css",
     "main.js": "/pokie-index/static/js/main.597441d3.js",
     "index.html": "/pokie-index/index.html",
-    "main.f27a90c6.css.map": "/pokie-index/static/css/main.f27a90c6.css.map",
+    "main.3cda6822.css.map": "/pokie-index/static/css/main.3cda6822.css.map",
     "main.597441d3.js.map": "/pokie-index/static/js/main.597441d3.js.map"
   },
   "entrypoints": [
-    "static/css/main.f27a90c6.css",
+    "static/css/main.3cda6822.css",
     "static/js/main.597441d3.js"
   ]
 }
